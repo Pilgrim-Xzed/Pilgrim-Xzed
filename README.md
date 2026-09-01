@@ -104,10 +104,6 @@ Nearly all of my work ships in **private org repos** — so instead of green squ
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pilgrim-Xzed&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&bg_color=00000000"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pilgrim-Xzed&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000" alt="GitHub stats"/>
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Pilgrim-Xzed&hide_border=true&theme=github-dark-blue&background=00000000"/>
   <img height="165" src="https://streak-stats.demolab.com?user=Pilgrim-Xzed&hide_border=true&background=00000000" alt="GitHub streak"/>
 </picture>
