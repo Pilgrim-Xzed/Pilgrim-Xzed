@@ -1,9 +1,9 @@
-<a href="https://saidu-bello.saeedbello12.chatgpt.site">
+<a href="https://pilgrim-xzed.github.io/">
   <img src="assets/hero.svg" width="100%" alt="Saidu Bello — Platform & Systems Engineer. The foundation behind the intelligence." />
 </a>
 
 <p align="center">
-  <a href="https://saidu-bello.saeedbello12.chatgpt.site"><strong>Portfolio ↗</strong></a>
+  <a href="https://pilgrim-xzed.github.io/"><strong>Portfolio ↗</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://orgn.com">Building at ORGN</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -56,4 +56,4 @@ My scope runs from `terraform plan` to production traffic: **Kubernetes and GitO
 ---
 
 **Building AI platforms, developer tools, or secure infrastructure?**<br/>
-[See my work](https://saidu-bello.saeedbello12.chatgpt.site) · [Find me on X](https://x.com/the_Pilgrim001)
+[See my work](https://pilgrim-xzed.github.io/) · [Find me on X](https://x.com/the_Pilgrim001)
