@@ -1,64 +1,20 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Saidu Bello — Platform, DevOps, Systems. I build the infrastructure AI agents run on.">
-  <style>
-    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
-    .mono { font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace; }
-    .spin-a { transform-origin: 968px 150px; animation: spin 46s linear infinite; }
-    .spin-b { transform-origin: 968px 150px; animation: spin 70s linear infinite reverse; }
-    .spin-c { transform-origin: 968px 150px; animation: spin 100s linear infinite; }
-    .pulse { animation: pulse 3.4s ease-in-out infinite; }
-    .pulse-late { animation: pulse 3.4s ease-in-out 1.7s infinite; }
-    .sweep { animation: sweep 4.6s ease-in-out infinite; }
-    .cursor { animation: blink 1.1s steps(1) infinite; }
-    @keyframes spin { to { transform: rotate(360deg); } }
-    @keyframes pulse { 0%, 100% { opacity: .3; } 50% { opacity: 1; } }
-    @keyframes sweep { 0%, 100% { width: 96px; } 50% { width: 210px; } }
-    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
-  </style>
-  <defs>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" stroke="#131F38" stroke-width="1" fill="none"/>
-    </pattern>
-    <radialGradient id="glow" cx="0.82" cy="0.22" r="0.75">
-      <stop offset="0" stop-color="#0EA5E9" stop-opacity="0.17"/>
-      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38BDF8"/>
-      <stop offset="1" stop-color="#818CF8"/>
-    </linearGradient>
-    <clipPath id="round"><rect width="1200" height="300" rx="18"/></clipPath>
-  </defs>
-
-  <g clip-path="url(#round)">
-    <rect width="1200" height="300" fill="#0A0F1E"/>
-    <rect width="1200" height="300" fill="url(#grid)"/>
-    <rect width="1200" height="300" fill="url(#glow)"/>
-
-    <!-- orbital motif -->
-    <g class="spin-a" stroke="#1B2B4A" fill="none">
-      <circle cx="968" cy="150" r="64"/>
-      <circle cx="1032" cy="150" r="4.5" fill="#38BDF8" stroke="none" class="pulse"/>
-    </g>
-    <g class="spin-b" stroke="#182642" fill="none">
-      <circle cx="968" cy="150" r="102"/>
-      <circle cx="968" cy="48" r="3.5" fill="#818CF8" stroke="none" class="pulse-late"/>
-      <circle cx="866" cy="150" r="3" fill="#38BDF8" stroke="none"/>
-    </g>
-    <g class="spin-c" stroke="#152138" fill="none">
-      <circle cx="968" cy="150" r="138"/>
-      <circle cx="1106" cy="150" r="3" fill="#64748B" stroke="none" class="pulse"/>
-    </g>
-    <circle cx="968" cy="150" r="7" fill="#38BDF8"/>
-    <circle cx="968" cy="150" r="16" stroke="#38BDF8" stroke-opacity="0.25" fill="none"/>
-
-    <!-- copy -->
-    <text x="72" y="104" fill="#38BDF8" font-size="14" font-weight="600" letter-spacing="7" class="mono">PLATFORM &#183; DEVOPS &#183; SYSTEMS</text>
-    <text x="70" y="172" fill="#F8FAFC" font-size="62" font-weight="800" letter-spacing="-1">Saidu Bello</text>
-    <rect x="72" y="194" width="120" height="4" rx="2" fill="url(#accent)" class="sweep"/>
-    <text x="72" y="238" fill="#94A3B8" font-size="20">
-      <tspan class="mono" fill="#475569">$</tspan>
-      <tspan dx="6">I build the infrastructure AI agents run on</tspan>
-      <tspan dx="4" fill="#38BDF8" class="cursor">&#9613;</tspan>
-    </text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+<title id="title">Saidu Bello — Platform and Systems Engineer</title>
+<desc id="desc">The foundation behind the intelligence. AI infrastructure, confidential compute, and cloud platforms.</desc>
+<rect width="1280" height="380" rx="14" fill="#101311"/>
+<rect x="1" y="1" width="1278" height="378" rx="13" fill="none" stroke="#35412c"/>
+<path d="M68 67H1212M68 309H1212" stroke="#35412c"/>
+<g font-family="-apple-system,Segoe UI,Arial,sans-serif">
+<text x="68" y="48" fill="#b7c2ad" font-size="14" letter-spacing="3">PLATFORM &amp; SYSTEMS ENGINEER</text>
+<text x="68" y="164" fill="#f2f4eb" font-size="76" font-weight="650" letter-spacing="-3">Saidu Bello<tspan fill="#ccf478">.</tspan></text>
+<text x="70" y="220" fill="#ccf478" font-size="29" letter-spacing="-.5">The foundation behind the intelligence.</text>
+<text x="70" y="262" fill="#a5b09a" font-size="20">AI infrastructure · Confidential compute · Cloud platforms</text>
+<text x="70" y="347" fill="#b7c2ad" font-size="15">FOUNDING ENGINEER @ ORGN</text>
+<text x="1210" y="347" text-anchor="end" fill="#ccf478" font-size="15">EXPLORE MY PORTFOLIO ↗</text>
+</g>
+<g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="16">
+<path d="M970 121V251" stroke="#718b55"/>
+<rect x="843" y="106" width="289" height="46" rx="3" fill="#1a2117" stroke="#3c4932"/><text x="865" y="135" fill="#c6d9b6">01 / IDENTITY</text>
+<rect x="843" y="173" width="289" height="46" rx="3" fill="#1a2117" stroke="#3c4932"/><text x="865" y="202" fill="#c6d9b6">02 / ORCHESTRATION</text>
+<rect x="843" y="240" width="289" height="46" rx="3" fill="#26341b" stroke="#718b55"/><text x="865" y="269" fill="#dcf8b4">03 / CONFIDENTIAL COMPUTE</text>
+</g></svg>
